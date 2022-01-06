@@ -1,42 +1,29 @@
-[
- {
-    "userId": 1,
-    "id": 1,
-    "title": "cat"
+{
+ "animals":
+ [
+  {
+   "id":1,
+   "name":"cat",
+   "age":4,
+   "gender":"male"
   },
   {
-    "userId": 1,
-    "id": 2,
-    "title": "Elephant"
+   "id":2,
+   "name":"dog",
+   "age":2,
+   "gender":"female"
   },
   {
-    "userId": 1,
-    "id": 3,
-    "title": "bee"
+   "id":3,
+   "name":"lion",
+   "age":4,
+   "gender":"male"
   },
   {
-    "userId": 2,
-    "id": 4,
-    "title": "eagle"
-  },
-  {
-    "userId": 2,
-    "id": 5,
-    "title": "dog"
-  },
-  {
-    "userId": 2,
-    "id": 6,
-    "title": "lion"
-  },
-  {
-    "userId": 3,
-    "id": 7,
-    "title": "zebra"
-  },
-  {
-    "userId": 3,
-    "id": 8,
-    "title": "crow"
+   "id":4,
+   "name":"bee",
+   "age":1,
+   "gender":"male"
   }
-]
+  ]
+}
